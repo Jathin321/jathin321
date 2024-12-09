@@ -1,11 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/1a/a2/d5/1aa2d5dcf28fed0410229c61c3bc4e79.png)](linkedin.com/in/giduthurijathin/)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/024/134/825/large_2x/software-development-life-cycle-banner-web-icon-illustration-concept-of-sdlc-with-icon-of-planning-requirements-design-coding-testing-deploy-and-maintenance-vector.jpg)](linkedin.com/in/giduthurijathin/)
 <h1 align="center">Hi 👋, I'm Jathin Giduthuri</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🔭 I’m currently working on [Agent Esports](agentesports-trail.vercel.app)
+- 🔭 I’m currently working on [Agent Esports](https://github.com/Jathin321/sample-agent-esports)
 
-- 🌱 I’m currently learning **DSA, kafka, Docker,**
+- 🌱 I’m currently learning **DSA, kafka, Docker**
 
 - 💬 Ask me about **React, Node js, Mongo DB, Web Sockets etc...**
 
