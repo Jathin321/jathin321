@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning **DSA, kafka, Docker**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Jathin321](https://github.com/Jathin321)
+
 - 💬 Ask me about **React, Node js, Mongo DB, Web Sockets etc...**
 
 - 📫 How to reach me **giduthurijathin@gmail.com**
+
+- ⚡ Fun fact **Connect to have Fun😅😊😎😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
