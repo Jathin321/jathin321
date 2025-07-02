@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Header with gradient background effect -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jathin%20Giduthuri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50"/>
+<img width="100%" height="300" src="https://static.vecteezy.com/system/resources/previews/024/134/825/large_2x/software-development-life-cycle-banner-web-icon-illustration-concept-of-sdlc-with-icon-of-planning-requirements-design-coding-testing-deploy-and-maintenance-vector.jpg"/>
 
 </div>
 
 <div align="center">
   
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Passionate+Developer;☁️+Cloud+Explorer;⚙️+DevOps+Enthusiast;🐧+Linux+%26+Shell+Scripting+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2C52A3&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+Developer;Cloud+Explorer;DevOps+Learner;Loves+Linux+and+Shell+Scripting" height="10" alt="Typing SVG" />
 
 </div>
 
@@ -36,13 +36,9 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 - 📚 Contributing to **Open Source Projects**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 
-## 📊 **GitHub Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jathin321&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jathin321&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+<img src="https://camo.githubusercontent.com/0ccde568ad2e41473d3e9cdb363129495ace83d7ecffbf073a9fa64ee390cb00/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f636f64696e672d667265616b2e676966" alt="image" />
 
 </td>
 </tr>
@@ -67,23 +63,28 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-## 🎨 **Featured Projects**
+## 📫 **Let's Connect & Collaborate**
 
 <div align="center">
 
-[![College Rank](https://github-readme-stats.vercel.app/api/pin/?username=Jathin321&repo=college-rank&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Jathin321/college-rank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giduthurijathin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giduthurijathin@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jathin_321)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jathin_321)
 
 </div>
 
-**🔥 Recent Highlights:**
-- 🏆 College ranking algorithm implementation
-- 🚀 Microservices architecture design
-- ⚡ Performance optimization projects
-- 🔧 CI/CD pipeline automation
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 📊 **GitHub Analytics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jathin321&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jathin321&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
 
 </td>
 <td width="50%">
@@ -121,21 +122,6 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 
 </div>
 
----
-
-## 📫 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giduthurijathin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giduthurijathin@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jathin_321)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jathin_321)
-
-</div>
-
----
-
 ## 💭 **Developer Quote**
 
 <div align="center">
@@ -143,18 +129,6 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
-
----
-
-## 🐍 **Contribution Graph**
-
-<div align="center">
-
-<img src="https://github.com/Jathin321/Jathin321/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 <div align="center">
 
