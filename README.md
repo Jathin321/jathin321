@@ -1,93 +1,170 @@
-[![Header Banner](https://static.vecteezy.com/system/resources/previews/024/134/825/large_2x/software-development-life-cycle-banner-web-icon-illustration-concept-of-sdlc-with-icon-of-planning-requirements-design-coding-testing-deploy-and-maintenance-vector.jpg)](https://linkedin.com/in/giduthurijathin/)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Jathin Giduthuri</h1>
-<h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
+<!-- Header with gradient background effect -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jathin%20Giduthuri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=55&descAlign=50"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2C52A3&center=true&vCenter=true&multiline=true&width=435&lines=Passionate+Developer;Cloud+Explorer;DevOps+Learner;Loves+Linux+and+Shell+Scripting" alt="Typing SVG" />
-</p>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-### 🔭 Current Project
-- 💼 Working on **[College Rank](https://github.com/Jathin321/college-rank)** - A platform for ranking colleges using real-time parameters
-
-### 🌱 Currently Learning
-- 🐧 **Linux** & Shell Scripting  
-- ☁️ **AWS Cloud**  
-- ⚙️ **DevOps Tools** (Docker, Jenkins, Kubernetes, etc.)
-
-### 💬 Ask Me About
-- 🚀 MERN Stack
-- ☁️ AWS Cloud & DevOps Practices
-- 🐳 Docker & CI/CD
-- 📦 Microservices & Cloud-native Deployments
-
-### 📫 Reach Me At
-- 📧 **giduthurijathin@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/giduthurijathin/)
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/giduthurijathin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/jathin_321" target="_blank"><img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white" alt="Leetcode"/></a>
-  <a href="https://www.codechef.com/users/jathin_321" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="center">
   
-  ### 💻 Languages
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-  ### 🌐 Frontend
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-
-  ### 🧰 Backend & DevOps
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
-  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-
-  ### 💻 OS & Tools
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Passionate+Developer;☁️+Cloud+Explorer;⚙️+DevOps+Enthusiast;🐧+Linux+%26+Shell+Scripting+Lover" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jathin321&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Jathin321&theme=github-dark&hide_border=true"/>
-</p>
+## 🎯 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathin321&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+```yaml
+name: "Jathin Giduthuri"
+role: "Full Stack Developer & DevOps Enthusiast"
+location: "India 🇮🇳"
+current_focus: "Cloud-Native Development"
+learning: ["AWS", "Kubernetes", "Linux"]
+hobbies: ["Coding", "Open Source", "Problem Solving"]
+```
+
+### 🔭 **Current Focus**
+- 💼 Building **[College Rank](https://github.com/Jathin321/college-rank)** - College ranking platform
+- 🌱 Mastering **AWS Cloud Architecture**
+- 🐳 Exploring **Container Orchestration**
+- 📚 Contributing to **Open Source Projects**
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 **GitHub Analytics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jathin321&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jathin321&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐️ *Thank you for visiting! Let’s build something amazing together.*
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### 💻 **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,react,nodejs,express" />
+
+### 🗄️ **Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker,kubernetes" />
+
+### 🔧 **Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,jenkins,nginx,tailwind,redux" />
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+## 🎨 **Featured Projects**
+
+<div align="center">
+
+[![College Rank](https://github-readme-stats.vercel.app/api/pin/?username=Jathin321&repo=college-rank&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/Jathin321/college-rank)
+
+</div>
+
+**🔥 Recent Highlights:**
+- 🏆 College ranking algorithm implementation
+- 🚀 Microservices architecture design
+- ⚡ Performance optimization projects
+- 🔧 CI/CD pipeline automation
+
+</td>
+<td width="50%">
+
+## 📈 **Coding Activity**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathin321&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="100%"/>
+
+</div>
+
+**💡 Focus Areas:**
+- 🌐 Full-Stack Development
+- ☁️ Cloud Architecture
+- 🔄 DevOps Practices
+- 🐧 System Administration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 **What I'm Passionate About**
+
+<div align="center">
+
+| 🚀 **Development** | ☁️ **Cloud & DevOps** | 🔧 **Problem Solving** |
+|:---:|:---:|:---:|
+| MERN Stack Applications | AWS Cloud Services | Data Structures & Algorithms |
+| Responsive Web Design | Docker Containerization | System Design |
+| API Development | CI/CD Pipelines | Performance Optimization |
+| Modern UI/UX | Kubernetes Orchestration | Code Architecture |
+
+</div>
+
+---
+
+## 📫 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giduthurijathin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giduthurijathin@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/jathin_321)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jathin_321)
+
+</div>
+
+---
+
+## 💭 **Developer Quote**
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+## 🐍 **Contribution Graph**
+
+<div align="center">
+
+<img src="https://github.com/Jathin321/Jathin321/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 
+
+**Thanks for visiting! Let's build something incredible together** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Jathin321&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"/>
