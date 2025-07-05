@@ -51,15 +51,16 @@ hobbies: ["Coding", "Open Source", "Problem Solving"]
 <div align="center">
 
 ### 💻 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,react,nextjs,nodejs,express,spring,laravel" />
 
 ### 🗄️ **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,kubernetes" />
 
 ### 🔧 **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,jenkins,nginx,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,jenkins,nginx,tailwind,redux,idea" />
 
 </div>
+
 
 ---
 
